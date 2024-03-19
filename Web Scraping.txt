@@ -1,0 +1,49 @@
+----------Web Scraping(1)----------
+
+Hello there client
+
+I am python programmer and I have experience in web scraping. I can extract data and save it as an excel file using python.
+Please you can initiate the chatbox so that we can discuss more about the project.
+
+Regards.
+
+----------Web Scraping(2)----------
+
+Hello, I am interested in your project. I will create a python script that scrapes data from website. The scraping tool will be very efficient and reliable. It will also be easy to execute by non-technical users. I am ready to start immediately and I assure you that you will be very satisfied with the work.
+
+I have very good experience building web scraping tools and I understand that you need the tool to be reliable and user-friendly.
+
+Eagerly looking forward to working with you!
+
+
+----------Web Scraping(3)----------
+
+Hello there,
+I am experienced in web scraping and to build script or a windows desktop application by using python. I am also experienced in large data scraping from the given website, by pass IP, Captcha, and anti bot or cloud flair protection.
+Please message me to discuss more regarding this project.
+Best Regards
+
+----------Web Scraping(4)----------
+
+Hello there! I understand that you're looking for someone to scrape  data from a specific website and provide the URL for you. Scraping needs to be done using Python, with data not needing to be cleaned or formatted before being output into a CSV file.
+I am a full stack developer and software engineer with 9+ years of experience in software engineering, specifically building websites, web and desktop applications using different technical stacks.
+I have the necessary skills and experience to perform this job accurately and efficiently. My proficiency in web scraping makes me an ideal candidate for this project - especially considering the need for accuracy in data analysis. Additionally, I am familiar with CSV file formatting so that the final output format can be a python script used for scraping as well as accurate data output.
+
+Please contact me for more discussion so we can start the project right now.
+Best regards!
+
+----------Web Scraping(5)----------
+
+Hi. Dear Client.
+I have gone through every detail of the description very carefully and found that I could be the best fit for your needs.
+I can scrape anything.
+I know all the angles of website scraping. I have much experience for 7+ years such as avoiding recaptcha, using multi threading, avoiding site security....
+I can do your job with crawler,scrapy, BS4 ,Perl script, Seleinum modules of python.
+I can do any project in your demand completely by my good experiences of last ago.
+I think this project is for me.
+I have developed real projects such as spider to scrape datas of product from Amazon.com by Python.
+And I have experience of scraping data from several site like http://www.lacourt.org, http://www2.dre.ca.gov, https://amazon.com
+If you want i can share my source
+I think I can finish more quickly than others, because of having my last project codes.
+Best regards!
+

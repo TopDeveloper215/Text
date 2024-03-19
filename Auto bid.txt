@@ -1,0 +1,24 @@
+html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, 
+
+
+
+--------Template 1--------
+
+Hello, {EmployerName}
+
+I've gone through the job detail "{ProjectTitle}". It seems that you're looking for a  freelancer who have rich experiences on {ProjectSkills}.
+[if_attachment] I am checking your attachment, I'll update you shortly... [/if_attachment]
+I've worked with another client in this space, I think you might find it very interesting to have chat.
+
+Regards, Marianna
+
+--------Template 2--------
+
+Hello, {EmployerName}
+This is Maria, a senior software developer , who has acquired various and perfect skills in building many projects for 7 years.
+Regarding the technical aspect, I am familiar with {ProjectSkills}.
+So I understand your needs and am ready to start working on your project right now.
+[if_attachment]I am checking your attachment, I'll update you shortly...[/if_attachment]
+Looking forward to hearing from you soon!
+Thanks,
+
