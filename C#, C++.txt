@@ -8,7 +8,7 @@ Success comes to those who strive
 Hello,  
 I have gone through your requirements, and have a strong feeling that I am the best fit for your requirements. 
 As a skilled OpenGL, Qt, C, C++ developer, I can build any class, function or method for you and  also expert in data structure building and OOP. 
-Very good in C and C++ WinUI 3 for GUI design to build Windows and Console application and C/C++/C# image processing. 
+Very good in MFC and C++ WinUI 3 for GUI design to build Windows and Console application and C/C++/C# image processing. 
 
 Please check my past projects.
 https://github.com/TopDeveloper215/MFC_Winsocket

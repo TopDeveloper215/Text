@@ -1,5 +1,22 @@
-html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, 
+				
+							----------------Skills---------------
 
+--------Web-------
+
+html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, swift , ios development , mobile app development, computer vision, flask , nlp , chatbot , opencv , stable diffusion , image processing , Metatrader , bot ,  data analysis, automation , chatgpt , gpt, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy
+
+--------Web Scraping-------
+
+Python, Web Scraping, Selenium, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy, 
+
+--------Civil Engineering-------
+
+Structural Engineering, Civil engineering, SolidWorks, Autodesk Revit, 3D Rendering, SketchUp, 3D Design, 2D Drawing, AutoCAD Architecture, Autodesk Civil 3D
+
+--------Reverse Engineering-------
+
+--------C++-------
+swift , ios development , mobile app development , ai , web , mobile , computer vision , python , flask , nlp , chatbot , opencv , stable diffusion , image processing , trading , bot , analysis , web , react , javascript , r , automation , chatgpt , gpt , wordpress , aws , ec2 , deploy , devops , reverse engineering , linux , nginx , C++. C#, html, css, php, lara
 
 
 --------Template 1--------

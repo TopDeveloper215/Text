@@ -1,13 +1,13 @@
 
 ------Article Writing------
-Hi
-This is Helmar from Philippine.
+Hi.
+This is Efanntyo from Indonesia.
 I am an experienced creative writer with a good reputation and good experience in Creative Writing and Article Writing.
 I have been writing for the past 7 years and have written over 500 plus high-quality plagiarism-free reports, articles, and content within stipulated deadlines. I have a strong leaning towards business, humanities, and social sciences, just to mention but a few.
 I will provide quality comedy writing, jokes, one-liners, funny stories, and anecdotes, and several kinds of writing.
 Please contact me for further discussion and let's get started!
 Thanks and regards,
-Helmar
+Efanntyo
 
 
 ------Vue.js------
@@ -252,7 +252,7 @@ Here is my academic and professional experience as a Web Developer and Data Scie
 5. Real-time Face Detection & Expression Recognition from CCTV cameras
 6. Extraction the personal information from ID card or purchase information from Invoice paper.
 
-I have rich experinece in Stock Marketing analysis by using Data visualization and Deep learning.
+I have rich experience in Stock Marketing analysis by using Data visualization and Deep learning.
 Especially, predicting the on-going price with the past ohlcv data is my favorite.
 I can finish off the project parts that you mentioned within your deadline with high quality.
 I think I am a right candidate for this project.

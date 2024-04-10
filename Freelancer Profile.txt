@@ -455,3 +455,20 @@ Reach out, and let's transform your idea into impactful software.
 
 Sincerely,
 Aleksandrs Dombrovskis
+
+
+-----------Full-Stack Developer
+
+Hi there,
+
+I'm a seasoned developer with a strong foundation in Web & Mobile, C#, Python & Web Scraping and Reverse Engineering. Over the years, I've cultivated my skills to deliver high-quality solutions tailored to meet clients' needs effectively.
+
+In Web development, I excel in designing and implementing responsive, user-friendly websites. Whether it's creating dynamic web applications or crafting engaging e-commerce platforms, I leverage the latest technologies and best practices to deliver optimal results.
+
+In the realm of reverse engineering, reversing and cracking in the app,dll, resource file etc various types of software binaries is that I have been doing since.
+
+When it comes to Mobile development, I'm proficient in developing native and cross-platform applications for iOS and Android devices. From concept to deployment, I ensure a seamless user experience while adhering to performance and security standards.
+
+In the realme of Python & Web Scraping , I have much experience for 7+ years such as avoiding recaptcha, using multi threading, avoiding site security.
+
+Let's collaborate to turn your vision into reality and create impactful digital experiences that resonate with your audience. Whether you need a website, a blockchain solution, or a mobile app, I'm here to bring your ideas to life with precision and excellence. Let's embark on this journey together and build something extraordinary.

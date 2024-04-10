@@ -1,0 +1,54 @@
+I am a highly skilled and experienced Threat Intelligence professional with a proven track record of developing and implementing effective solutions to detect and mitigate cyber threats. I've successfully developed various tools and systems to enhance threat intelligence capabilities, including scalable scrapers, typosquatting and phishing detection tools, and infrastructure using Kafka, RabbitMQ, and Redis.
+
+I am also experienced in digital footprint and dark web monitoring, and have conducted research on developing a complete Dark Web Threat Intel Solution. I have a strong background in programming, particularly in Python, and am well-versed in machine learning techniques to predict social engineering attacks. Overall, I am passionate about using my skills and knowledge to stay ahead of emerging threats and protect organizations from potential cyber attacks.
+
+WORK EXPERIENCE:
+
+• Writing scalable scrapers to scrape threat intelligence from different open source feeds and social media platforms
+• Developing different tools to enrich information about IOCs, that provide information helpful in identifying phishing campaigns regarding top brands
+• Developing a typosquatting tool to detect potential phishing websites of top vendors or customer domains
+• Developing a tool that detects phishing websites based on favicon hash and image comparison of intelligence data with top vendor and customer domains
+• Successfully developing a scalable architecture using Kafka, RabbitMQ and Redis that can handle large amounts of data and process them in parallel using async modules of these queues
+• Developing an infrastructure using Docker Swarm to simulate URLs from feeds in parallel, capture their traffic and screenshots.
+• Integrating phishing kit tool to search for potential phishing signatures in provided website
+• Generating passive threat intel to detect zero-day threats by scanning malicious infrastructure
+-----------------------------------------------------------------------------------------------------------
+I've worked Security Intelligence Analyst at TechnoGenics, providing next-generation Threat Intelligence Solutions. My Achievements at TechnoGenics include
+• Leading research for Threat Intelligence program
+• Hunting sources for Threat Intelligence and automating the process of extracting IOCs from sources
+• Using custom tools written in python to enrich information about IOCs and enhancing attribution
+• Writing Intel Whitelisting service to remove possible false positives
+• Leading a project for Domain Monitoring to look for possible typosquatting and phishing attempts against a company
+• Making crawlers scrappy compatible and deployment on Google Cloud Platform
+-----------------------------------------------------------------------------------------------------------
+I worked at Ebryx as part of the Fireeye offshore team. My responsibilities at Ebryx include
+• Performing Malware Analysis and writing snort rules to detect Malicious Traffic
+• Hunting different sources to gather Threat Intelligence
+• Writing Scripts to automate the process of Threat Intel Gathering
+• Using NLP techniques to extract useful Intel from Security Blogs and Google Alerts
+-----------------------------------------------------------------------------------------------------------
+I worked as a security engineer with Palmchip, an innovative cyber security company. My achievements while working at Palmchip includes
+• Digital Footprint Monitoring of high worth individuals
+• Dark Web Monitoring to alert users for any exposed credentials
+• Research on making a complete Dark Web Threat Intel Solution
+• Writing scripts to automate the process of Digital Footprint Monitoring
+• Using Digital Footprints Data to predict social engineering attacks using Machine Learning
+-----------------------------------------------------------------------------------------------------------
+Frameworks/tools:
+• Research and analysis
+• Threat Intelligence
+• Snort
+• OSINT
+• Dark Web Monitoring
+• Python
+• Network Security
+• SOCMINT
+• MongoDB
+• Elastic Search
+• Wuzuh
+
+Apart from that
+
+I also have experience making websites as a proof of concept for different cyber security companies.
+
+Order and you will not be disappointed

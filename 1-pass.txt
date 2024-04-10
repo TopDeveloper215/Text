@@ -17,11 +17,6 @@ lookover124!@$
   
 		yuriialex45@gmail.com | Yurii Alex | 1/1/1994 | United States | lancerok8@gmail.com	
   
-		
-	Tom Zerry Gmail----
-  
-		tomzerry47@gmail.com | Tom Zerry | Star1998! | 1/1/1997 | lancerok8@gmail.com
-		
 	lancer ok9 Gmail---
 	
 		freelancerok11@gmail.com | free lancer | Star1998! | 1/1/1997 | lancerok8@gmail.com
@@ -35,6 +30,8 @@ lookover124!@$
 		devaloper09210@gmail.com | Top Dev | Star1998! | 1/1/1997 | freelancerok11@gmail.com
 		
 		frelans78@gmail.com | Star1998! | lancerok8@gmail.com
+		
+		seanocruz1@gmail.com | Star1998! | lancerok8@gmail.com
 
 		
 	linkedin elenarusi38@gmail.com | Silverstar1998!@#
@@ -72,21 +69,18 @@ nelK5qTdGymKVLRY
 	
 	Upwork proxy----
 			
-		185.240.94.106:8000:FcK6th:96xkPX		: United Kingdom
 		
 		161.77.94.137:12324:14a7437b2f4de:1ab5b2ad97	: USA
-			
-		161.0.11.30:8000:T2rJKr:Kbzg19		: USA
+		
 		
 		223.29.129.168:12324:14a37f4d88d50:f176af2886	: USA
 		
 		
 		
-		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
-				
-		45.154.85.39:8000:Rdnvkw:JhWhvx			: United Kingdom
 		
-		45.147.103.155:8000:x4aj33:78Av6z		: USA
+		
+		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
+					
 		
 		185.214.72.19:8000:2CKbwQ:XKaNdq		: Philippines
 		
@@ -96,7 +90,10 @@ nelK5qTdGymKVLRY
 		
 		91.245.90.0:12324:14a7fa8289651:c5a16c9aad 	: Switzland
 		
-		213.232.68.239:8000:L75Jmq:RAjgk1
+		
+		185.156.111.83:64925:q9gsLse1:GmrfFvDU
+
+		45.86.71.81:64935:q9gsLse1:GmrfFvDU  : Philippines
 	
 *********Communication info***********	
 	
@@ -116,7 +113,8 @@ nelK5qTdGymKVLRY
 	
 	infinityfree.com 
 	000webhost.com
-	https://googiehost.com/(gmail)
+	https://googiehost.com/(gmail) : elenarusi38@gmail.com :  Star1998!
+									 lancerok8@gmail.com :  Star1998!
 	
 	
 	
@@ -172,6 +170,20 @@ nelK5qTdGymKVLRY
 					https://github.com/web-padawan
 					
 					
+					USA
+					
+					https://github.com/simonw
+					https://github.com/bahmutov
+					
+					Switzerland
+					
+					https://github.com/cclauss
+					https://github.com/corneliusroemer
+					
+					Brazil
+					
+					https://github.com/jjunior96
+					
 					
 	buy crypto
 
@@ -221,6 +233,8 @@ Helmar - live:.cid.5723880379f0665
 
 Elon- +40 737 725 620
 
+https://t.me/elon1muskkk
+
 
 netstat -ano | findstr :5432
 
@@ -232,6 +246,6 @@ sc query type= service state= all | findstr "postgresql"
 
 net start postgresql-x64-16
 
-live:.cid.5723880379f0665  -  Helmar
+
 
 
