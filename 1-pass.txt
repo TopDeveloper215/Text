@@ -31,7 +31,6 @@ lookover124!@$
 		
 		frelans78@gmail.com | Star1998! | lancerok8@gmail.com
 		
-		seanocruz1@gmail.com | Star1998! | lancerok8@gmail.com
 
 		
 	linkedin elenarusi38@gmail.com | Silverstar1998!@#
@@ -41,17 +40,16 @@ lookover124!@$
 	verybestsniper@outlook.com | Star123!@# | lancerok8@gmail.com
 	
 	lancerok8@outlook.com | Star1998!
-		
+	topdeveloper__1@outlook.com
+	seanocruz12@outlook.com | Star1998!
+	seanocruz13@outlook.com | Star1998!	
 		
 *********Freelancer Account***********
 
 antenna arena health raven tumble fruit consider tray tiger tell betray faint
 
-alexandrsdombrovskis@gmail.com   
 
-nelK5qTdGymKVLRY
 
-93.190.142.57:14776:6937731-res-country-LV-state-456173-city-456172:2dj7qd8ci3
 
  
 *********Proxy info***********
@@ -77,12 +75,10 @@ nelK5qTdGymKVLRY
 		
 		
 		
-		
+		93.190.142.57:14776:6937731-res-country-LV-state-456173-city-456172:2dj7qd8ci3  : Latvia
 		
 		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
 					
-		
-		185.214.72.19:8000:2CKbwQ:XKaNdq		: Philippines
 		
 		103.74.77.127:8000:zpKLPc:G27NJa		: Serbia
 		
@@ -223,17 +219,19 @@ nelK5qTdGymKVLRY
 	
 	
 	https://app.virtualstaff.ph/employer/applicant-profile/65be6009e43cd8001d07efcc?invite=true
-*******Anydesk info***********
-
-	185.186.62.225:12324:14a559149246d:53ceed0e53
 	
 --Client contact info***********
 
-Helmar - live:.cid.5723880379f0665
 
 Elon- +40 737 725 620
 
 https://t.me/elon1muskkk
+
+
+
+--Data Research
+
+ffmpeg -i 1.mp4 -r 1/1 frame%01d.png
 
 
 netstat -ano | findstr :5432
