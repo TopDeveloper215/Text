@@ -350,7 +350,9 @@ https://bit.ly/3aOiGxa
 
 https://github.com/TopDeveloper215/Python-Email-Scraping
 
+--Chrome extension
 
+https://chrome-stats.com/
 
 
 
@@ -424,5 +426,7 @@ https://sleeklens.com/photoshop-tutorials/
 	---Layer Mask
 	
 	https://www.photoshopessentials.com/basics/understanding-photoshop-layer-masks/
+	
+	Photoshop Learning Channel - https://t.me/Graphic_Designer0
 	
 
