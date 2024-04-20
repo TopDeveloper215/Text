@@ -31,13 +31,33 @@ Regards, Marianna
 
 --------Template 2--------
 
-Hello, {EmployerName}
-This is Maria, a senior software developer , who has acquired various and perfect skills in building many projects for 7 years.
-Regarding the technical aspect, I am familiar with {ProjectSkills}.
-So I understand your needs and am ready to start working on your project right now.
-[if_attachment]I am checking your attachment, I'll update you shortly...[/if_attachment]
-Looking forward to hearing from you soon!
-Thanks,
+Hello.
+After checking the your job description, it seems like you might be looking for a senior developer with rich experience in {ProjectSkills}.
+I had done exactly the same work a few months ago. I would like to grab this opportunity and will work till you get 100% satisfied with my work.
+Thank you for taking the time to review our letter.
+Lets connect in chat so that We discuss further. 
+Regards.
+
+--------Template 3--------
+
+Hello!
+After reading your project description about {ProjectTitle}.
+I'm sure I can finish this to your satisfaction within the deadline.
+I do, however, have a few questions.
+Kindly drop me a note in the chat window so that we can talk about these and I can send you samples of my prior work that meets your specifications.
+I'm hoping to hear from you shortly.
+Warm regards,
+
+--------Template 4--------
+
+☀️☀️ Hello. ☀️☀️
+Hope you're doing well. I've just carefully reviewing your project description, I am confident that I can complete your project - {ProjectTitle}  within the given time frame.
+I have expertise in {ProjectSkills} and have completed similar projects in the past. I would be happy to share my previous work with you over chat.
+Please let me know if you would like to discuss further details and collaborate with me on this project.
+Best regards,
+
+
+
 
 ----------Bid Tip-----------
 

@@ -40,8 +40,6 @@
 		223.29.129.168:12324:14a37f4d88d50:f176af2886	: USA
 		93.190.142.57:14776:6937731-res-country-LV-state-456173-city-456172:2dj7qd8ci3  : Latvia
 		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
-		103.74.77.127:8000:zpKLPc:G27NJa		: Serbia
-		109.172.121.41:60163:88LUfeuz:31Yva8yQ  : Latvia
 		91.245.90.0:12324:14a7fa8289651:c5a16c9aad 	: Switzland
 		185.156.111.83:64925:q9gsLse1:GmrfFvDU
 		45.86.71.81:64935:q9gsLse1:GmrfFvDU  : Philippines
@@ -126,6 +124,11 @@
 					Brazil
 					
 					https://github.com/jjunior96
+					
+					Ukraine
+					
+					https://github.com/SofiaProtsiv
+					https://github.com/tomkaXX
 					
 					
 	AI photo- https://instant-portrait.com/
