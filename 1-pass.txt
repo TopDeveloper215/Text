@@ -36,13 +36,12 @@
 	
 	Upwork proxy----
 			
-		161.77.94.137:12324:14a7437b2f4de:1ab5b2ad97	: USA
 		223.29.129.168:12324:14a37f4d88d50:f176af2886	: USA
 		93.190.142.57:14776:6937731-res-country-LV-state-456173-city-456172:2dj7qd8ci3  : Latvia
 		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
-		91.245.90.0:12324:14a7fa8289651:c5a16c9aad 	: Switzland
-		185.156.111.83:64925:q9gsLse1:GmrfFvDU
+		185.156.111.83:64925:q9gsLse1:GmrfFvDU : USA
 		45.86.71.81:64935:q9gsLse1:GmrfFvDU  : Philippines
+		168.158.97.247:12324:14aa9173a39cc:fc23257960 : USA
 	
 	
 				***********Account***********
@@ -58,6 +57,12 @@
 		freelancerok11@gmail.com : seano_cruz1_60261
 
 		yuriialex45@gmail.com - Phone verify required
+	
+	----Poe----
+	
+		developer09210@gmail.com
+		elenarusi38@gmail.com
+
 
 	----linkedin----
 		
