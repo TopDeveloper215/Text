@@ -167,7 +167,7 @@
 
 				***********Data Research***********
 
-			ffmpeg -i 1.mp4 -r 1/1 frame%01d.png
+			ffmpeg -i 1.mp4 -r 1/1 A%01d.png
 
 				***********Hosting Server***********
 	
