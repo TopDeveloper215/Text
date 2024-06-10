@@ -5,7 +5,7 @@
 	
 			recovery email -- secstar1223@gmail.com
 
-		elenarusi38@gmail.com | lancerok8@gmail.com
+		elenarusi38@gmail.com | lancerok8@gmail.com | Silverstar123!@#
 		yuriialex45@gmail.com | lancerok8@gmail.com	
 		freelancerok11@gmail.com | lancerok8@gmail.com
 		developer09210@gmail.com | freelancerok11@gmail.com
@@ -25,24 +25,8 @@
 	antenna arena health raven tumble fruit consider tray tiger tell betray faint
 
 				***********Proxy Info***********
-
-		
-	Upwork Bulk----
 	
-		77.91.67.222:59010:88LUfeuz:31Yva8yQ    : Armenia
 		77.91.67.224:59010:88LUfeuz:31Yva8yQ  	: Armenia
-		178.253.215.162:12324:14a6f067eab2a:d4516c8c50		: Germany
-		85.254.83.213:12324:14aca16bcd4d3:fc5e2973f3		: Germany
-	
-	Upwork proxy----
-			
-		223.29.129.168:12324:14a37f4d88d50:f176af2886	: USA
-		93.190.142.57:14776:6937731-res-country-LV-state-456173-city-456172:2dj7qd8ci3  : Latvia
-		193.111.19.184:8000:Ffpyk8:tqErm9		: Romania
-		185.156.111.83:64925:q9gsLse1:GmrfFvDU : USA
-		45.86.71.81:64935:q9gsLse1:GmrfFvDU  : Philippines
-		168.158.97.247:12324:14aa9173a39cc:fc23257960 : USA
-	
 	
 				***********Account***********
 	
@@ -168,6 +152,8 @@
 				***********Data Research***********
 
 			ffmpeg -i 1.mp4 -r 1/1 A%01d.png
+			
+			fltjdaud
 
 				***********Hosting Server***********
 	
@@ -179,3 +165,10 @@
 				***********Second Skype***********
 				
 			"C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe" --secondary --datapath "%appdata%\Microsoft\Skype for Desktop\profile1"
+			
+			
+			514 - text-success : #5cb85c
+			AI- text-warning : #f0ad4e
+			329- text-primary : #0275d8
+			812- text-danger : #d9534f
+			CT- text-dark : #
