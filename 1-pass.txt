@@ -14,7 +14,7 @@
 		
 				***********Outlook Mail***********
 
-	verybestsniper@outlook.com | Star123!@# | lancerok8@gmail.com
+	verybestsniper@outlook.com | Silver1998! | lancerok8@gmail.com
 	lancerok8@outlook.com | Star1998!
 	topdeveloper__1@outlook.com
 	seanocruz12@outlook.com | Star1998!
@@ -28,8 +28,9 @@
 
 				***********Proxy Info***********
 	
-		77.91.67.224:59010:88LUfeuz:31Yva8yQ  	: Armenia
 		185.145.52.255:12324:14a8d39491e8c:a2fc8d1266 : USA
+		161.77.174.171:12324:14a05ff90dcd4:658c3d23b7 : USA
+		109.172.121.41:60163:88LUfeuz:31Yva8yQ : Latvia
 	
 				***********Account***********
 	
@@ -40,8 +41,8 @@
 	----Discord----
 
 		developer09210@gmail.com  : really_good1_19800
-		elenarusi38@gmail.com : sean_o12_82836
-		freelancerok11@gmail.com : seano_cruz1_60261
+		elenarusi38@gmail.com : sean_o12_82836  -  7
+		freelancerok11@gmail.com : seano_cruz1_60261  - 107
 
 		yuriialex45@gmail.com - Phone verify required
 	
@@ -54,7 +55,7 @@
 	
 		topdeveloper__2@outlook.com | Silver1998!@#      ---- 453
 		topdeveloper__4@outlook.com | Silver1998!@#      ---- 7
-		elenarusi38@gmail.com								-107
+		elenarusi38@gmail.com	| Silver1998!@#		 						-107
 
 	----linkedin----
 		
@@ -64,8 +65,13 @@
 				***********Buy***********
 				
 	Proxy Buy https://proxy6.net/en/user/balance
+			  https://proxy2.webshare.io/
+	
 
 	Credit Card Buy 	https://www.buysellvouchers.com/
+						https://www.coinsbee.com/
+						https://www.myprepaidcenter.com/
+
 	
 	Buy VPS 	https://www.vps2day.com/
 	
@@ -156,12 +162,12 @@
 
 			Elon- +40 737 725 620  https://t.me/elon1muskkk
 
-
+			Ukraine Rental -- https://t.me/piffffpaffff
+			
 				***********Data Research***********
 
 			ffmpeg -i 1.mp4 -r 1/1 A%01d.png
 			
-			fltjdaud
 
 				***********Hosting Server***********
 	
@@ -175,8 +181,7 @@
 			"C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe" --secondary --datapath "%appdata%\Microsoft\Skype for Desktop\profile1"
 			
 			
-			514 - text-success : #5cb85c
-			AI- text-warning : #f0ad4e
-			329- text-primary : #0275d8
-			812- text-danger : #d9534f
-			CT- text-dark : #
+			********Account***********
+			
+			volodymyr
+			

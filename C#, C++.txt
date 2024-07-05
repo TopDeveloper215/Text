@@ -76,9 +76,9 @@ Best regards.
 --------------C#------------
 
 Hello.
-I have read your description very carefully. I am already working on Windows Software Development. Right now I am working with local client to help them growing their business for last 3 years. I am work on C#.Net , html , css , bootstarp , jquery , ajax etc.
+I have read your description very carefully. I am already working on Windows Software Development. Right now I am working with local client to help them growing their business for last 3 years. I am work on C#, .Net ,C++, Python, Qt etc.
 
-I created windows base Software in C#.Net like :
+I created windows base Software in C#, .Net like :
 - Inventory base management software
 - Invoicing Software
 - Import and Export Excel file Software
