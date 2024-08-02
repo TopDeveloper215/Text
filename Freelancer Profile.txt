@@ -436,7 +436,7 @@ Availability : 40 hours/Week
 
 ✔️Dear Client, Thanks for the job posting!
 
-I'm Aleksandrs from Latvia. With a proven track record spanning 14 years, I bring a wealth of expertise in software engineering and full-stack development. I excel in crafting seamless, end-to-end solutions, from conceptualization to execution.
+I'm Angelina from Ukraine. With a proven track record spanning 10 years, I bring a wealth of expertise in software engineering and full-stack development. I excel in crafting seamless, end-to-end solutions, from conceptualization to execution.
 
 I have great expertise in
 
@@ -454,7 +454,7 @@ If you're seeking a freelance software engineer who combines technical prowess w
 Reach out, and let's transform your idea into impactful software.
 
 Sincerely,
-Aleksandrs Dombrovskis
+Angelina
 
 
 -----------Software Engineer - Web & Mobile | AI
@@ -470,3 +470,26 @@ When it comes to Mobile development, I'm proficient in developing native and cro
 My passion for AI and Data Analysis enables me to create intelligent and data-driven solutions that deliver valuable insights and improve user experiences. I am dedicated to staying up-to-date with the latest industry trends and best practices, ensuring that my skills remain at the forefront of the ever-evolving tech landscape.
 
 Let's collaborate to turn your vision into reality and create impactful digital experiences that resonate with your audience. Whether you need a website, a blockchain solution, or a mobile app, I'm here to bring your ideas to life with precision and excellence. Let's embark on this journey together and build something extraordinary.
+
+
+-------------Data Analysis------------
+
+I'm Angelina from Ukraine. With a proven track record spanning 10 years, I bring a wealth of expertise in software engineering and Data Science. I excel in crafting seamless, end-to-end solutions, from conceptualization to execution.
+
+I have great expertise in Stata, Compustat, Statistical Analysis and Web Development .
+
+As an adept problem solver and effective communicator, I have successfully delivered 250+ projects of varying scales. 
+
+Why Choose Me:
+- Proven Track Record: Successfully delivered 250 projects, from small-scale to enterprise-level.
+- Client-Centric Approach: Prioritizing client goals and vision for project alignment.
+- Timely Delivery: Committed to meeting project deadlines without compromising quality.
+- Adaptability: Stay current with industry trends, adopting new technologies for modern solutions.
+- Fair Price : Always ask Reasonable and Fair price to the client, so they are happy with it.
+
+
+If you're seeking a freelance software engineer who combines technical prowess with a client-focused mindset, let's discuss how I can contribute to your project's success.
+Reach out, and let's transform your idea into impactful software.
+
+Sincerely,
+Angelina
