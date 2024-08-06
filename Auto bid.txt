@@ -3,7 +3,7 @@
 
 --------Web-------
 
-html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, swift , ios development , mobile app development, computer vision, flask , nlp , chatbot , opencv , stable diffusion , image processing , Metatrader , bot ,  data analysis, automation , chatgpt , gpt, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy
+html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, swift , ios development , mobile app development, computer vision, flask , nlp , chatbot , opencv , stable diffusion , image processing , Metatrader , bot ,  data analysis, automation , chatgpt , gpt, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy, Google Analytics, Data Analysis, Data Science, SPSS Statistics, Statistical Analysis, R Programming Language
 
 --------Web Scraping-------
 

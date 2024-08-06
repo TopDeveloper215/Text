@@ -493,3 +493,33 @@ Reach out, and let's transform your idea into impactful software.
 
 Sincerely,
 Angelina
+
+-----------Data Science
+
+I'm a full stack developer and data scientist with 7+ years of hands-on experience in machine learning and a strong math background (MSc. in Applied Mathematics).
+
+I can help you to build the whole ML pipeline from scratch or improve your solutions. Dealing with various tasks, such as NLP, Time Series Analysis, Computer Vision, GANs, developing bots for Stocks or/and Crypto markets, deploying APIs for ML models, etc.
+My journey in Machine Learning spans 4 𝐲𝐞𝐚𝐫𝐬, marked by a passion for deep learning and transformative technologies.
+
+Skills:
+- Languages: Python, Javascript, R
+- Frameworks: PyTorch, TensorFlow, Keras, Flask, MERN, MEVN, MEAN, Laravel
+- Libraries: LangChain, NumPy, Pandas, Scikit-Learn, Matplotlib, Plotly, SciPy, NLTK, LightGBM, XGBoost
+- DB: MySQL, PostgreSQL, MongoDB
+- Version control: GIT
+- Other: Docker, Google Cloud, LLM, ChatGPT, LLaMA
+
+ Skilled in a variety of AI Technologies:
+
+-Advanced Algorithms & Data Structures.
+-OpenAI GPT Models.
+-Deep Learning Architectures: CNNs, RNNs, LSTMs, Transformer architectures, Auto-Encoders, DBMs, DBNs, GANs (Generative Adversarial Networks), and Capsule Networks.
+-Machine Learning Algorithms: Linear/Logistic Regression, kNN, SVM, Decision Trees, Random Forest, Gradient Boosting, Naive Bayes, Ensemble Methods, XGBoost, and AdaBoost.
+- Transformer & Language Models: Experienced with Bloom, Facebook's Llama, DeBERTa, DistilBert, Google T5, and custom model development.
+- Clustering and Hashing Algorithms : K-Means, DBSCAN, Hierarchical Clustering, and Locality-Sensitive Hashing (LSH).
+- Dimensionality Reduction : PCA, PCR, and PLSR.
+- Similarity Search Technologies : Annoy and Faiss.
+- Specialized AI Applications: AI for medical research and environmental solutions.
+- Model Optimization: ML models benchmarking and optimization.
+
+
