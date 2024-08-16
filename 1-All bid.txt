@@ -1,3 +1,80 @@
+--Austria - Mary
+
+-Manual
+
+✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including "". Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
+
+-GPT
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+
+"skills including """, in this part, matching skills must be mentioned.
+"I will "" using """--In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
+
+✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including "". I will "" using 
+ "". Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
+
+--Ukraine- Angelina
+
+-Manual
+
+Hello.
+I've gone through the job description. It seems that you're looking for a  freelancer who have rich experiences on "".
+I've worked with another client in this space, I think you might find it very interesting to have chat.
+Regards, Angelina
+
+-Auto
+
+Hello, {EmployerName}
+
+I've gone through the job description. It seems that you're looking for a  freelancer who have rich experiences on {ProjectSkills}.
+[if_attachment] I am checking your attachment, I'll update you shortly... [/if_attachment].
+I've worked with another client in this space, I think you might find it very interesting to have chat.
+
+Regards, Angelina
+
+--Ukraine-Aleksandra
+
+-Manual
+
+Hello, "" expert is here, I've already completed 50+  "" projects with "" so far and yours is no problem for me, I am ready to start work right now and will deliver perfect result with clean code shortly, please feel free to contact me and let's discuss more in details via chat, thanks, Aleksandra
+
+-Auto
+
+Hi, there.
+I've just read your job description, it seems like you might be looking for a senior freelancer with rich experience in {ProjectSkills}.
+I had done exactly the same work a few months ago. I would like to grab this opportunity and will work till you get 100% satisfied with my work.
+Please connect in chat so that We discuss further. 
+Regards.
+Aleksandra
+
+--USA-Steven
+
+-Manual
+
+Hi, this is Steven from United States and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Steven 
+
+-GPT
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+"I am seeing that your project about "" "-- In this part, should contain deep analyze of project title and detail.
+
+Hi, this is Steven from United States and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Steven
+
+
+
+
+
+
+
+
+
+
+
+
+
 --Angelina--
 
 Hello Dear.
@@ -7,16 +84,6 @@ Looking forward to chatting with you soon.
 Thanks.
 Angelina
 
-
---Angelina--
-
-Hello, there.
-I've just checked your project detail carefully.
-I understand you want to "".
-As a highly skilled "", I can "".
-I look forward to hearing from you soon.
-Warm regards,
-Angelina.
 
 
 
@@ -47,22 +114,11 @@ Hello,
 I'm an expert in Python and I have over 8 years experience in software engineering. 
 Let me know if you are interested in. Thanks
 
-	***************
-	
-	Hello, Angular, Firebase expert is here, I've already completed 50+ Angular projects with Firebase so far and yours is no problem for me, I am ready to start work right now and will deliver perfect result with clean code shortly, please feel free to contact me and let's discuss more in details via chat, thanks, Angelina
 	
 ---Angelina(Web Scraping)
 
 Hi, I can scrape data from any website. please share me link, I'll scrape data that you need. Also I'll ensure to save data to any type. Let's get started and ensure you stay promptly updated! Thanks!
 
----Angelina (Ukraine)
-
-Hi, this is Angelina from Ukraine and I am working as a senior software engineer for the last decades. I am seeing that your project about xxxx and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Angelina
-
-
---GPT
-
-Hi, this is Angelina from Ukraine and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. I will "" for this project. Looking forward to chatting with you soon to discuss your project further? Thank you! Angelina.
 
 ---Angelina(Only Skill)
 
@@ -106,11 +162,6 @@ Cheers,
 Angelina 
 
 
-
-
----Angelina(Only Skill)
-
-✔️✔️Hi, I've worked with other clients in similar project, so I have 8+ years of rich experiences with skills including "". Specially I can work on your time zone for the good communication. I'd like you to discuss the requirements in more detail through chat and start right now. Regards, 
 
 ---Angelina(Web Scraping)
 

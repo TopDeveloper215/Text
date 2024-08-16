@@ -3,7 +3,7 @@
 
 --------Web-------
 
-html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, swift , ios development , mobile app development, computer vision, flask , nlp , chatbot , opencv , stable diffusion , image processing , Metatrader , bot ,  data analysis, automation , chatgpt , gpt, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy, Google Analytics, Data Analysis, Data Science, SPSS Statistics, Statistical Analysis, R Programming Language
+html , css , javascript , php , laravel , codeigniter , next.js , react , mongodb , node.js , express , vue.js , shopify , wordpress , frontend development , web design , python , web scraping , selenium, Amazon Web Services, Artificial Intelligence, API, Data Collection, chemical engineering, reverse engineering, react native, swift , ios development , mobile app development, computer vision, flask , nlp , chatbot , opencv , stable diffusion , image processing , Metatrader , bot ,  data analysis, automation , chatgpt , gpt, Selenium Web Driver, Data Scraping, Data Extraction,  BeautifulSoup, Scrapy, Google Analytics, Data Analysis, Data Science, SPSS Statistics, Statistical Analysis, R Programming Language, 
 
 --------Web Scraping-------
 
@@ -74,6 +74,15 @@ He's not a tech guy, I need to ask about requirements.
 Most of questions you provided should be solved by the developer
 I need to ask that client can answer from their side
 
+
+-----------
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+"I will "" for this project"--In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution, should not be included..
+
+"I am seeing that your project about "" "-- In this part, should contain deep analyze of project title and detail.
+ 
 
 
 ✅ ☀️ ⚡ ⭐ ✨ ☑️ 🎄

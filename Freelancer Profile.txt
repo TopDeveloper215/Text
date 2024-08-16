@@ -523,3 +523,168 @@ Skills:
 - Model Optimization: ML models benchmarking and optimization.
 
 
+							------------Completed Profile------------
+							
+	--------------Data Analyst | AI Consultant | Full Stack--------
+	
+I'm Angelina from Ukraine. With a proven track record spanning 10 years, I bring a wealth of expertise in software engineering and Data Science.
+With a PhD in Computer Science (summa cum laude) from Max-Planck Institute for Informatics in Germany, I had a solid background in math and algorithm development.
+I did undertaken data analysis, data visualization, and predictive modeling with a heavy emphasis on financial and time-series data over the past decade.
+I specializes in different programming languages such as Python, R, C, C++, and MATLAB.
+
+	---Working Experience
+	
+	--Data Scientist | Software Developer
+	
+		Freelance
+		
+		- Developed predictive models for clients using large sets of data.
+		- Analyzed data to identify features, trends, correlations, etc.
+		- Developed custom software to put machine learning models in production.
+		
+		May, 2021 - Present
+		
+	--Machine Learning Expert
+	
+		Realm Living Inc
+		
+		- Trained a model for predicting house rooms and quantitative objects inside them.
+		- Created a methodology to train and deploy new models in the company, speeding up the time to prepare and deploy a new model to production to a couple of days.
+		- Managed a junior developer to become as productive as a senior developer.
+		
+	--Algorithm Assistant
+	
+		Bilkent University
+
+		- Worked as a teaching assistant for algorithms and computer networks courses.
+		- Created assignments, graded exams, homework, and projects, and gave lectures.
+		- Submitted a thesis (Hypergraph-partitioning-based Image-space-parallel Direct Volume Renderer for Unstructured Grids with Replication) and implemented the project over a Beowulf cluster connected via a high-speed switch using C++ and MPI.
+		
+	---Education
+	
+		Ph.D. in Computer Science and Artificial Intelligence
+		
+		Universidad Carlos III de Madrid - Spain
+		
+		2011-2014
+		
+		
+		--------------Principal Engineer | AI Engineer | Algorithm Dev--------------
+	
+I'm embedded system developer with 10+ years of experience in designing, developing, and maintaining complex software and hardware systems. holds a BSc in computer science and an MSc in data analytics engineering with disciplines in AI and machine learning, decision optimization/mathematical modeling, and computational statistics. Along with solid experience in embedded systems, information security, cryptography, and networks, I'm enthusiastic about developing high-load real-time systems for his clients.
+I have also solid background in algorithmics and theoretical computer science.
+
+	---Working Experience
+	
+	--AI Engineer
+	
+		Minealytics
+		
+		- Created a general image-based regression model for tasks on mining sites, ranging from ore analysis to safety warnings.
+		- Optimized models for edge computing using TensorRT and other neural network optimization frameworks.
+		- Generated LinkedIn content using ChatGPT for PR purposes and to increase company exposure.
+		
+		May, 2021 - Present
+		
+	--Senior Hardware and Firmware Engineer
+	
+		Power Electronics Institute
+		
+		- Led the development of firmware for power supply systems for spacecraft. Designed the architecture of the real-time controller.
+		- Developed a desktop application to track real-time measurements and health metrics of power controllers.
+		- Managed a project of power supply system development. Oversaw product delivery and communicated with clients.
+		
+	--Software and Algorithm Developer
+	
+		Weizmann Institute of Science
+
+		- Built a high-performance R package—misha—with 30,000+ lines of C++ code under the hood for analysis of DNA sequences. The package uses custom data structures, advanced algorithms, and parallel computation to facilitate top performance.
+		- Designed and developed an R package—tgstat—to replace various standard R functions with equivalents boosting run time >100x (correlation, distance, ...). The performance is facilitated by the use of C++, BLAS, and multitasking.
+
+
+		
+	---Education
+	
+		Certification in Computer Science
+		
+		University of Oxford - United Kingdom
+		
+		2011-2014
+		
+		
+		--------------Pro Engineer | Software Consultant | Algorithm Dev--------------
+	
+I'm a researcher, consultant, and developer with 12 years of experience and expertise in software architecture and development, mathematical modeling, and algorithm development, in fields such as mathematical optimization, AI, algorithmic game theory, and operations research. 5 years ago, I was a software engineer and tech team lead at Google, and I holds a PhD in computer science.
+
+	---Working Experience
+	
+	--Algorithms Consultant
+	
+		DAOstack
+		
+		-Assisted in the design of governance protocols for decentralized autonomous organizations (DAO).
+		-Advanced the design and development of network-based algorithms for reputation computation.
+		-Fine-tuned algorithms for high-throughput, large-scale decision-making.
+		
+		
+	--Senior Software Engineer
+
+		Paradigm Geophysical
+		
+		-Developed visualization tools for the oil industry.
+		-Designed and developed the front end of a B2B service for conducting scientific experiments for the oil industry.
+		-Optimized the running time of the back end of a B2B service for conducting scientific experiments for the oil industry.
+
+
+		
+	---Education
+	
+		PhD in Computer Science
+		
+		Technische Universität Berlin
+		
+		2013-2015
+		
+		
+		--------------Data Analysis & AI | Algorithm & Web |Pro Engineer--------------
+	
+This is Mary, senior IT pro with several years of experience in data preparation and visualization, analytics, reporting and full stack development.
+I enjoys the challenges of extracting value from real-world datasets by wielding the latest machine learning and artificial intelligence tools in the Python stack.
+Over the past 7 years, he has specialized in data engineering, full-stack web development, and product management.
+My expertise include data architecture, data engineering, modern data warehousing, big data, and analytics.
+I have also strong background in full-stack application development, including JavaScript, React, Next.js, Node.js, Vue, Python, and Django.
+With solid experience in Linux operating systems, C/C++, C#, and Python operating systems, I enjoys working on industrial and internet of things (IoT) solutions running in web systems, desktop, and embedded devices.
+
+	---Working Experience
+	
+	--Data Scientist
+	
+		Develandoo
+		
+		- Developed a recommendation engine that increased the average duration of users' visits by more than 10%.
+		- Worked with tabular data. Helped to identify database inconsistencies and patterns.
+		- Conducted data analysis, built visualizations, and developed predictive models.
+		
+		
+	--Full-stack Developer
+
+		Coverdash
+		
+		- Built a full web application platform for an insurance brokerage startup from scratch.
+		- Created the architecture for the web application, including the database schema, authentication and authorization, front-end framework, and styling library, as well as supporting external APIs and tools.
+
+	--Embedded Systems/ Firmware Engineer
+
+		Phi Innovations
+		
+		- Designed the hardware of the Industrie 4.0 gateway using the internet of things technologies.
+		- Contributed to firmware development using C and STM32.
+		- Handled software documentation and manual elaboration.
+		
+	---Education
+	
+		PhD in Computer Science
+		
+		Lunds universitet
+		
+		2013-2017
