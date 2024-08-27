@@ -211,3 +211,11 @@
 			
 			live:.cid.445de586f6c210a6  - BETMATIK -Georgia
 			
+			*******GitHub .Git reset******
+			
+			git init
+			git config --global --add safe.directory D:/Account/Resume
+			git remote add origin https://github.com/TopDeveloper215/Resume.git
+			git fetch origin
+			git reset --hard origin/master
+			
