@@ -341,6 +341,15 @@ Let's chat and discuss what you have in your mind to realize.
 
 Cheers!
 
+------Chemical Engineer
+
+Hello
+I am a hands-on cosmetic chemist with over 13 years of experience in developing wide range of skin care, hair care, make-up products such as lipsticks etc, nail care, oral care, vetcare and personal wash cosmetic products.
+I've held various senior and executive level management positions within FDA and EPA governed companies. 
+The services I offer include Formula Design and Ingredient Selection (cosmetic raw materials, active ingredients, additives, hydrogels, etc.), labeling and packaging, and the creation of brand identity. I have experience in the development of different skincare products: lotions, serums, moisturizers, masks, cleansers, among others. 
+I've checked your project detail carefully and I can formulate a henna paste with all-natural skin-safe preservatives that maintains its dyeing properties throughout a 6-month shelf life, utilizing your existing formulation as a starting point.
+Vitali.
+
 -------------Cyber Security----------
 
 I am a highly skilled and experienced Threat Intelligence professional with a proven track record of developing and implementing effective solutions to detect and mitigate cyber threats. I've successfully developed various tools and systems to enhance threat intelligence capabilities, including scalable scrapers, typosquatting and phishing detection tools, and infrastructure using Kafka, RabbitMQ, and Redis.

@@ -9,20 +9,20 @@
 Please fill best bid letter with following type.
 Only technical importance sentence.
 
-"skills including """, in this part, matching skills must be mentioned.
-"I will "" using """--In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
+skills including , in this part, matching skills must be mentioned.
+I will  using --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
 
-✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including "". I will "" using 
- "". Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
+✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including . I will  using . Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
 
---Ukraine- Aleksandra
+--Ukraine- Oleksandr  
 
 -Manual
 
 Hello.
-I've gone through the job description. It seems that you're looking for a  freelancer who have rich experiences on "".
+I've just read your job description carefully. It seems that you're looking for a  freelancer who have good experiences on "".
 I've worked with another client in this space, I think you might find it very interesting to have chat.
-Regards, Aleksandra
+Please feel free to contact me, I can start right away!
+Regards, Oleksandr  
 
 -Auto
 
@@ -32,7 +32,7 @@ I've gone through the job description. It seems that you're looking for a  freel
 [if_attachment] I am checking your attachment, I'll update you shortly... [/if_attachment].
 I've worked with another client in this space, I think you might find it very interesting to have chat.
 
-Regards, Aleksandra
+Regards, Oleksandr  
 
 --Ukraine-Aleksandra
 
