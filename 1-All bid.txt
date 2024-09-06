@@ -14,7 +14,7 @@ I will  using --In this sentence, should contain a technical sentence about how 
 
 ✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including . I will  using . Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
 
---Ukraine- Oleksandr  
+--Ukraine- Valentina  
 
 -Manual
 
@@ -22,38 +22,46 @@ Hello.
 I've just read your job description carefully. It seems that you're looking for a  freelancer who have good experiences on "".
 I've worked with another client in this space, I think you might find it very interesting to have chat.
 Please feel free to contact me, I can start right away!
-Regards, Oleksandr  
+Regards, Valentina  
 
--Auto
+--GPT
 
-Hello, {EmployerName}
+Please fill best bid letter with following type.
+Only technical importance sentence.
 
-I've gone through the job description. It seems that you're looking for a  freelancer who have rich experiences on {ProjectSkills}.
-[if_attachment] I am checking your attachment, I'll update you shortly... [/if_attachment].
-I've worked with another client in this space, I think you might find it very interesting to have chat.
+experiences on  , in this part, matching skills must be mentioned.
+I will  using --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
 
-Regards, Oleksandr  
+Hello. I've just read your job description carefully. It seems that you're looking for a  freelancer who have good experiences on . I've worked with another client in this space, I think you might find it very interesting to have chat. I will using. Please feel free to contact me, I can start right away! Regards, Valentina 
 
---Ukraine-Aleksandra
+--Ukraine-Anna
 
 -Manual
 
-Hello, "" expert is here, I've already completed 50+  "" projects with "" so far and yours is no problem for me, I am ready to start work right now and will deliver perfect result with clean code shortly, please feel free to contact me and let's discuss more in details via chat, thanks, Aleksandra
+Hello, "" expert is here, I've already completed 50+  "" projects with "" so far and yours is no problem for me, I am ready to start work right now and will deliver perfect result with clean code shortly, please feel free to contact me and let's discuss more in details via chat, thanks, Anna
 
--Auto
+
+-GPT
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+
+experience in , in this part, matching skills must be mentioned.
+I will  using --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
 
 Hi, there.
-I've just read your job description, it seems like you might be looking for a senior freelancer with rich experience in {ProjectSkills}.
+I've just read your job description, it seems like you might be looking for a senior freelancer with rich experience in .
 I had done exactly the same work a few months ago. I would like to grab this opportunity and will work till you get 100% satisfied with my work.
+I will using.
 Please connect in chat so that We discuss further. 
 Regards.
-Aleksandra
+Anna
 
---USA-Steven
+--Ukraine-Sasha 
 
 -Manual
 
-Hi, this is Steven from United States and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Steven 
+Hi, this is Sasha from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Sasha 
 
 -GPT
 
@@ -61,7 +69,7 @@ Please fill best bid letter with following type.
 Only technical importance sentence.
 "I am seeing that your project about "" "-- In this part, should contain deep analyze of project title and detail.
 
-Hi, this is Steven from United States and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Steven
+Hi, this is Sasha from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Sasha
 
 
 
