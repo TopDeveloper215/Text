@@ -1,0 +1,316 @@
+[8:50 AM, 9/9/2024] +40 770 365 116: hello
+[8:50 AM, 9/9/2024] +40 770 365 116: i settle with revolut now
+[8:51 AM, 9/9/2024] +40 770 365 116: how much i have to pay exactly for the 150000 tokens for gas to solana?
+[8:52 AM, 9/9/2024] +40 770 365 116: 0.003 per each token?
+[8:55 AM, 9/9/2024] Marko R: I think Yes
+[8:55 AM, 9/9/2024] +40 770 365 116: $0.02275 (0.00015 SOL).
+[8:55 AM, 9/9/2024] +40 770 365 116: i found this one
+[8:55 AM, 9/9/2024] +40 770 365 116: please check
+[8:55 AM, 9/9/2024] Marko R: Ok
+[8:56 AM, 9/9/2024] +40 770 365 116: i think this is totaly wrong
+[8:56 AM, 9/9/2024] +40 770 365 116: it cant be so much
+[8:56 AM, 9/9/2024] Marko R: yes you are right 0.02275
+[8:57 AM, 9/9/2024] +40 770 365 116: please check because its much more than what we talked
+[8:57 AM, 9/9/2024] +40 770 365 116: it was 0.003
+[8:58 AM, 9/9/2024] Marko R: It is right
+[8:58 AM, 9/9/2024] +40 770 365 116: so how much i have to pay for 150000 token?
+[8:59 AM, 9/9/2024] Marko R: 3412.5?
+[9:00 AM, 9/9/2024] +40 770 365 116: it was 450 usd
+[9:00 AM, 9/9/2024] +40 770 365 116: so it cant be 3412 now
+[9:00 AM, 9/9/2024] Marko R: I think we made a mistake in your decimal calculation last time.
+[9:01 AM, 9/9/2024] +40 770 365 116: no for sure not
+[9:01 AM, 9/9/2024] +40 770 365 116: i remember i checked 3 times
+[9:01 AM, 9/9/2024] +40 770 365 116: thats why i changed from etherium to solana
+[9:02 AM, 9/9/2024] +40 770 365 116: how much it cost with etherium now?
+[9:05 AM, 9/9/2024] Marko R: So your idea?
+[9:05 AM, 9/9/2024] +40 770 365 116: if its like that than we can make for now just 15000 tokens
+[9:05 AM, 9/9/2024] +40 770 365 116: then we will start the project smaller with just 15000 tokens for now to see how it works
+[9:06 AM, 9/9/2024] Marko R: Ok. I think I need to reduce the number too, this seems good
+[9:06 AM, 9/9/2024] +40 770 365 116: i can pay your 500 usd today and the gas for 15000 tokens and not for 150000
+[9:06 AM, 9/9/2024] +40 770 365 116: and how much for the 500 usd?
+[9:07 AM, 9/9/2024] +40 770 365 116: 2.25 sol for the gas
+[9:08 AM, 9/9/2024] Marko R: yes
+[9:08 AM, 9/9/2024] +40 770 365 116: 3.87 for your 500 usd?
+[9:08 AM, 9/9/2024] +40 770 365 116: total 6.12 sol
+[9:08 AM, 9/9/2024] +40 770 365 116: do you have a QR code for the payment in solana?
+[9:09 AM, 9/9/2024] Marko R: yes just a sec
+[9:11 AM, 9/9/2024] Marko R: I think we have discussed 1000usdt
+[9:13 AM, 9/9/2024] +40 770 365 116: 500usd
+[9:13 AM, 9/9/2024] +40 770 365 116: the depozit
+[9:13 AM, 9/9/2024] +40 770 365 116: the first installment is 1000 when 10% of the tokens are already sold
+[9:13 AM, 9/9/2024] +40 770 365 116: it was calculated on 150000 so we will have to change it to the exact number
+[9:13 AM, 9/9/2024] +40 770 365 116: i will make a document for that
+[9:13 AM, 9/9/2024] Marko R: Ok
+[9:16 AM, 9/9/2024] +40 770 365 116: so i can pay like that
+[9:16 AM, 9/9/2024] +40 770 365 116: 3.87 sol for the 500 usd for you
+[9:16 AM, 9/9/2024] +40 770 365 116: and 4,5 sol for 30000 tokens
+[9:17 AM, 9/9/2024] +40 770 365 116: so we can make 30000 tokens
+[9:17 AM, 9/9/2024] +40 770 365 116: thats all i can do now
+[9:17 AM, 9/9/2024] Marko R: Ok
+[9:17 AM, 9/9/2024] Marko R: I will send you sol address and qrcode
+[9:17 AM, 9/9/2024] Marko R: 5Lsf8S7Sf1EnBnnwhRgCeEGcRbbviMyQ4iXs87yULq3N
+[9:17 AM, 9/9/2024] +40 770 365 116: i think the QR code should work
+[9:19 AM, 9/9/2024] Marko R: After send it, Please send me screen or id
+[9:21 AM, 9/9/2024] +40 770 365 116: you got it?
+[9:22 AM, 9/9/2024] Marko R: Let me check
+[9:22 AM, 9/9/2024] Marko R: not yet
+[9:22 AM, 9/9/2024] Marko R: I think it has delay time
+[9:23 AM, 9/9/2024] Marko R: Did you send it?
+Can you send me screen? or transation id?
+[9:24 AM, 9/9/2024] +40 770 365 116: its asking a company name and the website
+[9:26 AM, 9/9/2024] +40 770 365 116: its not posible to take screenshot
+[9:26 AM, 9/9/2024] +40 770 365 116: they say not posible to take screenshot because of their security polices
+[9:27 AM, 9/9/2024] Marko R: Ok
+[9:28 AM, 9/9/2024] Marko R: My company and website?
+[9:28 AM, 9/9/2024] +40 770 365 116: yes
+[9:28 AM, 9/9/2024] Marko R: I am individual developer 
+So company is freelancer
+Name is freelancer.com
+[9:28 AM, 9/9/2024] Marko R: website is freelancer.com
+[9:29 AM, 9/9/2024] Marko R: good?
+[9:31 AM, 9/9/2024] +40 770 365 116: check if you got it
+[9:31 AM, 9/9/2024] Marko R: Ok no problem
+[9:31 AM, 9/9/2024] +40 770 365 116: it should be ok now
+[9:32 AM, 9/9/2024] +40 770 365 116: so i will change the contract to 30000 tokens now and send it to sign
+[9:32 AM, 9/9/2024] +40 770 365 116: so we can start
+[9:33 AM, 9/9/2024] Marko R: Yes
+contract changes token.pdf
+[9:45 AM, 9/9/2024] Marko R: Ok
+[9:54 AM, 9/9/2024] +40 770 365 116: for start which informations do you need from me?
+[9:56 AM, 9/9/2024] +40 770 365 116: if we finish fast with this project i will have another one for much more tokens
+[9:56 AM, 9/9/2024] +40 770 365 116: you can earn a lot with selling them
+[9:57 AM, 9/9/2024] +40 770 365 116: but first i want to see that this project will work
+[9:58 AM, 9/9/2024] Marko R: Ok just a min
+[10:50 AM, 9/9/2024] Marko R: I didn't received yet
+[10:50 AM, 9/9/2024] +40 770 365 116: that cant be
+[10:50 AM, 9/9/2024] +40 770 365 116: her eits gone to your wallet
+[10:51 AM, 9/9/2024] Marko R: Ok I will wait more
+[10:54 AM, 9/9/2024] Marko R: I think it is processing now
+[10:58 AM, 9/9/2024] +40 770 365 116: now they sent message to tell the real name
+[10:58 AM, 9/9/2024] +40 770 365 116: not just freelancer
+[10:58 AM, 9/9/2024] +40 770 365 116: so they are still checking i think
+[11:00 AM, 9/9/2024] Marko R: Website and company?
+[11:00 AM, 9/9/2024] +40 770 365 116: wait pls
+[11:00 AM, 9/9/2024] Marko R: Ok
+[11:11 AM, 9/9/2024] +40 770 365 116: can you make a revolut bank account online?
+[11:11 AM, 9/9/2024] +40 770 365 116: they canceld the transfer
+[11:11 AM, 9/9/2024] +40 770 365 116: so if you want you cna make online a revolut bankaccount now and in few minutes i can send directly the usd
+[11:12 AM, 9/9/2024] +40 770 365 116: they said its 99% a scam
+[11:12 AM, 9/9/2024] +40 770 365 116: so better with usd from revolut to revolut
+[11:14 AM, 9/9/2024] Marko R: Hi
+[11:14 AM, 9/9/2024] Marko R: Do you have payoneer?
+[11:14 AM, 9/9/2024] +40 770 365 116: no
+[11:14 AM, 9/9/2024] Marko R: If you have credit card, you can make it
+[11:14 AM, 9/9/2024] Marko R: it is very easy
+[11:15 AM, 9/9/2024] Marko R: Then I will send the payment request to your card
+[11:15 AM, 9/9/2024] +40 770 365 116: i had payoneer before but in romania its resticted
+[11:15 AM, 9/9/2024] +40 770 365 116: i had stupid experience with them
+[11:15 AM, 9/9/2024] +40 770 365 116: the european union is very choosy about payments
+[11:15 AM, 9/9/2024] +40 770 365 116: the tax office is allways afraid that they cant catch enaugh taxes
+[11:15 AM, 9/9/2024] +40 770 365 116: and afraid that we will make black business
+[11:16 AM, 9/9/2024] Marko R: Ok understand
+[11:17 AM, 9/9/2024] +40 770 365 116: https://www.revolut.com/
+[11:17 AM, 9/9/2024] +40 770 365 116: i see its working in ukraine also
+[11:19 AM, 9/9/2024] Marko R: Ok let me check it
+[11:34 AM, 9/9/2024] Marko R: Hello Can we use bank?
+[11:35 AM, 9/9/2024] Marko R: I and my friend are creating revolut now
+[11:35 AM, 9/9/2024] +40 770 365 116: with bank its also complicate
+[11:36 AM, 9/9/2024] +40 770 365 116: online banking with ukraine is not working here
+[11:36 AM, 9/9/2024] Marko R: Ok
+[11:36 AM, 9/9/2024] +40 770 365 116: we need to go to the bank and they need to make a security check
+[11:36 AM, 9/9/2024] Marko R: Understood
+[11:36 AM, 9/9/2024] +40 770 365 116: maybe because of the war
+[11:36 AM, 9/9/2024] Marko R: I will create it
+[11:36 AM, 9/9/2024] +40 770 365 116: me i dont understand but no choice
+[11:39 AM, 9/9/2024] Marko R: created, but still needs some time, not finished yet
+[11:40 AM, 9/9/2024] +40 770 365 116: its posible to send moneyh when its created and you can make cardless payments until you will recive the physically card
+[11:41 AM, 9/9/2024] Marko R: After complete, I will share it
+[11:42 AM, 9/9/2024] +40 770 365 116: ok
+[11:42 AM, 9/9/2024] +40 770 365 116: you just need to tell me when its finished
+[11:42 AM, 9/9/2024] +40 770 365 116: and if you use same phone number which is here in whatsapp than i can pay directly to your phone number
+[11:43 AM, 9/9/2024] +40 770 365 116: and if the payments is between revolut friends it means there is not so strict security check
+[11:43 AM, 9/9/2024] Marko R: Ok
+[11:57 AM, 9/9/2024] Marko R: +380661823497
+[11:57 AM, 9/9/2024] Marko R: Can you invite me on revolut?
+[11:58 AM, 9/9/2024] +40 770 365 116: ok i will add
+[11:58 AM, 9/9/2024] Marko R: ok thank you
+[12:02 PM, 9/9/2024] Marko R: added?
+[12:13 PM, 9/9/2024] Marko R: you have to add me, then I can receive
+[12:14 PM, 9/9/2024] +40 770 365 116: did you get it?
+[12:15 PM, 9/9/2024] +40 770 365 116: go to accounts and you will see it in usd
+[12:18 PM, 9/9/2024] +40 770 365 116: you see it??
+[12:20 PM, 9/9/2024] Marko R: NO, I can not login there
+[12:20 PM, 9/9/2024] +40 770 365 116: why?
+[12:20 PM, 9/9/2024] +40 770 365 116: did you set the pin with 6 digits?
+[12:20 PM, 9/9/2024] Marko R: I don't know well
+[12:21 PM, 9/9/2024] +40 770 365 116: it will take a bit until you will know it but i am sure when you get experience you will like revolut
+[12:21 PM, 9/9/2024] Marko R: Ok let me check more
+[12:21 PM, 9/9/2024] +40 770 365 116: but its paid and confirmed here
+[12:22 PM, 9/9/2024] Marko R: It is paid version?
+[12:22 PM, 9/9/2024] Marko R: Please try again with crypto
+[12:24 PM, 9/9/2024] +40 770 365 116: Hey! I've sent you $1,110 which can be claimed via https://revolut.me/p/V1GU254UHu
+[12:24 PM, 9/9/2024] Marko R: to this number?
+[12:25 PM, 9/9/2024] +40 770 365 116: to the other number
+[12:25 PM, 9/9/2024] +40 770 365 116: i send you the link there also now
+[12:25 PM, 9/9/2024] +40 770 365 116: try there
+[12:26 PM, 9/9/2024] Marko R: Other number? Let me check
+[5:43 AM, 9/10/2024] +40 770 365 116: hello
+[5:59 AM, 9/10/2024] Marko R: yes I am here
+[5:59 AM, 9/10/2024] +40 770 365 116: i dont understand
+[5:59 AM, 9/10/2024] Marko R: did you contact to my friend?
+[5:59 AM, 9/10/2024] Marko R: for revolut?
+[5:59 AM, 9/10/2024] +40 770 365 116: who are you and who is the one with the revolut account?
+[6:00 AM, 9/10/2024] +40 770 365 116: are you olexandra or the husband of her?
+[6:00 AM, 9/10/2024] Marko R: He is my boy friend
+[6:00 AM, 9/10/2024] Marko R: why?
+[6:00 AM, 9/10/2024] +40 770 365 116: ok i think so i know when i talk with who maybe we should make a group chat
+[6:01 AM, 9/10/2024] Marko R: He knows more than I do.
+[6:01 AM, 9/10/2024] +40 770 365 116: so everybody is in the group and i can see who message
+[6:01 AM, 9/10/2024] Marko R: Ok
+[6:01 AM, 9/10/2024] +40 770 365 116: is that ok for you?
+[6:01 AM, 9/10/2024] +40 770 365 116: your friend with revoluit have still problems to get activate the account
+[6:01 AM, 9/10/2024] +40 770 365 116: the payment is done but pending
+[6:01 AM, 9/10/2024] +40 770 365 116: it can pend 6 days
+[6:02 AM, 9/10/2024] +40 770 365 116: if its not settled within 6 days they will sent the money back to me
+[6:02 AM, 9/10/2024] Marko R: how can he solve that problem?
+[6:03 AM, 9/10/2024] +40 770 365 116: he have to wait or i also can cancel the payment and get the money again and put out to go to a crypto ATM and send crypto from there
+[6:03 AM, 9/10/2024] Marko R: ATM?
+[6:03 AM, 9/10/2024] +40 770 365 116: but i will loose again some money like first time when i buy solana and change them back in usd
+[6:03 AM, 9/10/2024] +40 770 365 116: we have a crypto ATM 50 km from here in Timisoara
+[6:03 AM, 9/10/2024] Marko R: How about binance?
+[6:03 AM, 9/10/2024] +40 770 365 116: but their commision is 10%
+[6:03 AM, 9/10/2024] +40 770 365 116: biance is same
+[6:04 AM, 9/10/2024] +40 770 365 116: not working because it also need to be send from bank
+[6:04 AM, 9/10/2024] Marko R: Then can you send me it by using ATM?
+[6:04 AM, 9/10/2024] +40 770 365 116: in romania the banks are very complicate because the gouvernment is allways afraid that they cant get enaugh taxes if the people make uncontrolled transactions
+[6:05 AM, 9/10/2024] Marko R: I will remove it from my income
+[6:06 AM, 9/10/2024] Marko R: do you have credit or debit card?
+[6:06 AM, 9/10/2024] +40 770 365 116: the next payments i think its better when you sell the tokens than you have the money and deduct it directly every time from there and send to me just the rest
+[6:06 AM, 9/10/2024] +40 770 365 116: because its veyr complicate to transfer from here
+[6:06 AM, 9/10/2024] Marko R: Good idea
+[6:07 AM, 9/10/2024] +40 770 365 116: i have both but the bank rules are same here. its not depending on the card
+[6:07 AM, 9/10/2024] Marko R: Can you create wise account?
+[6:07 AM, 9/10/2024] +40 770 365 116: how much does it cost to make a company in ukraine?
+[6:08 AM, 9/10/2024] Marko R: LLC - 10900usd
+[6:08 AM, 9/10/2024] +40 770 365 116: whatever you create here its allways going from the card and the bank block and check and check. wise, remitly, paypal, payoneer everything
+[6:09 AM, 9/10/2024] Marko R: then which payment can you use in romania
+[6:10 AM, 9/10/2024] +40 770 365 116: i can use revolut after your friend is activate with his account
+[6:10 AM, 9/10/2024] +40 770 365 116: revolut to revolut is simple
+[6:10 AM, 9/10/2024] +40 770 365 116: revolut is not a romanian bank
+[6:10 AM, 9/10/2024] +40 770 365 116: its lithuanian bank
+[6:11 AM, 9/10/2024] Marko R: But it takes 6days
+[6:11 AM, 9/10/2024] Marko R: pending time
+[6:11 AM, 9/10/2024] +40 770 365 116: just now
+[6:11 AM, 9/10/2024] Marko R: only revolut?
+[6:11 AM, 9/10/2024] +40 770 365 116: when his account is actived its going instandly
+[6:12 AM, 9/10/2024] +40 770 365 116: until now i found just revolut which really works here
+[6:12 AM, 9/10/2024] Marko R: when he contact revolut support team, then we can solve it quickly?
+[6:12 AM, 9/10/2024] +40 770 365 116: they are not under the romanian nationalbank rules
+[6:12 AM, 9/10/2024] +40 770 365 116: yes i send him already the link how to contact them
+[6:12 AM, 9/10/2024] Marko R: ah~ I will said that to him
+[6:13 AM, 9/10/2024] +40 770 365 116: if he can get activated today the money will be there today
+[6:13 AM, 9/10/2024] +40 770 365 116: but it depends on revolut how long time they take to activate the account
+[6:13 AM, 9/10/2024] +40 770 365 116: they have 80 million of users
+[6:13 AM, 9/10/2024] +40 770 365 116: maybe thats the problem
+[6:21 AM, 9/10/2024] Marko R: he is contacting with revolut support team now
+[6:21 AM, 9/10/2024] +40 770 365 116: ok good
+[6:22 AM, 9/10/2024] +40 770 365 116: so he have to tell me what happen so i will not have to cancel the payment
+[6:22 AM, 9/10/2024] Marko R: yes
+[6:23 AM, 9/10/2024] +40 770 365 116: you see they asking to click cancel
+[6:24 AM, 9/10/2024] +40 770 365 116: but i will wait
+[6:24 AM, 9/10/2024] +40 770 365 116: because if his account is active he can get it imediatly
+[6:24 AM, 9/10/2024] Marko R: ok
+[6:27 AM, 9/10/2024] +40 770 365 116: what do we need to start to make the 30000 tokens?
+[6:27 AM, 9/10/2024] Marko R: First I need sol for that
+[6:28 AM, 9/10/2024] +40 770 365 116: ok and next?
+[6:29 AM, 9/10/2024] Marko R: not need now 
+To start it, I need nothing
+[6:29 AM, 9/10/2024] +40 770 365 116: a token name?
+[6:29 AM, 9/10/2024] +40 770 365 116: do you need to explain what will be the investment for the blockchain?
+[6:30 AM, 9/10/2024] +40 770 365 116: or you just make the tokens without any information and start to sell?
+[6:30 AM, 9/10/2024] Marko R: first we have to make the token and introduce it to our client and customers
+[6:31 AM, 9/10/2024] Marko R: and we have to market it
+[6:31 AM, 9/10/2024] +40 770 365 116: so the investors will buy them without to know in which business they invest?
+[6:31 AM, 9/10/2024] Marko R: First, you need to get a lot of customers who can leave good reviews and start selling to make quick sales.
+[6:32 AM, 9/10/2024] +40 770 365 116: how we make that from zero?
+[6:32 AM, 9/10/2024] +40 770 365 116: the buyers can register for preselling?
+[6:32 AM, 9/10/2024] +40 770 365 116: and than we tell the day when they will get the token?
+[6:33 AM, 9/10/2024] +40 770 365 116: or sell directly one by one?
+[6:33 AM, 9/10/2024] Marko R: I think we have to make website to sell tokens on the website
+[6:33 AM, 9/10/2024] Marko R: But it will be very simple website, where use can register and order tokens
+[6:33 AM, 9/10/2024] +40 770 365 116: so you need a website content
+[6:34 AM, 9/10/2024] Marko R: As for website content, you can ask website content artist to write for you or  I can do it for you to save money
+[6:34 AM, 9/10/2024] Marko R: Which will be better for you?
+[6:35 AM, 9/10/2024] +40 770 365 116: i will give you informations about the business and you can write the content
+[6:35 AM, 9/10/2024] +40 770 365 116: treasure chest  --- can this be a good name for the token?
+[6:35 AM, 9/10/2024] Marko R: Yes, I think it will save you money
+[6:35 AM, 9/10/2024] Marko R: Treasure Chest?
+[6:35 AM, 9/10/2024] +40 770 365 116: yes because the business is buying and selling antiques and vintage products
+[6:36 AM, 9/10/2024] Marko R: Okay
+[6:36 AM, 9/10/2024] +40 770 365 116: if we can sell all 30000 tokens we will have to buy a building and make the store there and we need capital to buy the goods
+[6:36 AM, 9/10/2024] Marko R: I have nothing opposite to your Idea
+[6:36 AM, 9/10/2024] +40 770 365 116: so when we buy the goods its happen sometimes that someone wants to empty the whole house
+[6:37 AM, 9/10/2024] +40 770 365 116: so we go there and empty all and see what we can sell and what we will throw
+[6:37 AM, 9/10/2024] +40 770 365 116: so sometimes we can find very expensive things
+[6:37 AM, 9/10/2024] +40 770 365 116: so its like a trasure chest
+[6:37 AM, 9/10/2024] Marko R: Oh That's perfect idea
+[6:38 AM, 9/10/2024] Marko R: Okay. First I will make tokens, and I will integrate blockchain into website which youw will have
+[6:39 AM, 9/10/2024] Marko R: on the website, customer can buy tokens as much as they need or sell
+[6:39 AM, 9/10/2024] +40 770 365 116: so we can tell in the website that the investos can have a growing of the value if we find expensive things
+[6:39 AM, 9/10/2024] Marko R: So this is called marketing website and stragty
+[6:40 AM, 9/10/2024] Marko R: Right
+[6:40 AM, 9/10/2024] +40 770 365 116: they will get their dividends from 90% of the whole company gain
+[6:41 AM, 9/10/2024] Marko R: Okay
+[6:41 AM, 9/10/2024] +40 770 365 116: we will buy or build the building big enaugh so we can get also some rent for a part of the building
+[6:42 AM, 9/10/2024] Marko R: Ok
+[6:43 AM, 9/10/2024] Marko R: It seems like  that you are going to build large scale of token marketing website now
+[6:43 AM, 9/10/2024] +40 770 365 116: this will be the first one
+[6:43 AM, 9/10/2024] Marko R: Okay
+[6:43 AM, 9/10/2024] +40 770 365 116: if this is working i have another project for a sunpower project which needs 60 milion euro
+[6:43 AM, 9/10/2024] +40 770 365 116: and also one project for hotels which needs 15 milion euro
+[6:43 AM, 9/10/2024] Marko R: Ah ~
+[6:44 AM, 9/10/2024] Marko R: Awesomeness
+[6:44 AM, 9/10/2024] +40 770 365 116: so if you do your work well and we are succed than you can work maybe forever with me and will get good shares from the sellings
+[6:44 AM, 9/10/2024] Marko R: Okay
+[6:44 AM, 9/10/2024] +40 770 365 116: 3 to 4 usd for each sold toiken is a lot of money
+[6:44 AM, 9/10/2024] Marko R: Let's coopearte together well to get succeed
+[6:45 AM, 9/10/2024] +40 770 365 116: i can do the business strategy and administration but you have to do the tehnical things
+[6:45 AM, 9/10/2024] Marko R: Yes, It is 2000 around times of money to create tokens
+[6:45 AM, 9/10/2024] Marko R: Yes. No worries, I will do my best as much as possible
+[6:46 AM, 9/10/2024] +40 770 365 116: the important is not the creating - the most important is the selling of the tokens thats why i am willing to pay a lot for the selling
+[6:46 AM, 9/10/2024] Marko R: To sell tokesn created, we need to do marketing
+[6:47 AM, 9/10/2024] Marko R: The best way , it is creating business website to sell tokens
+[6:47 AM, 9/10/2024] Marko R: and you do marketing about website and tokens
+[6:47 AM, 9/10/2024] +40 770 365 116: i see
+[6:47 AM, 9/10/2024] Marko R: Of course, I can raise my friends here in my country to take part in marketing
+[6:48 AM, 9/10/2024] Marko R: I have also friends here who are working as model
+[6:48 AM, 9/10/2024] +40 770 365 116: i see
+[6:48 AM, 9/10/2024] Marko R: I think they can help marketing via shows
+[6:48 AM, 9/10/2024] +40 770 365 116: i heard ukraine have pretty ladies
+[6:48 AM, 9/10/2024] Marko R: Yes. Like me
+[6:48 AM, 9/10/2024] Marko R: LOL
+[6:49 AM, 9/10/2024] +40 770 365 116: you should move to romania
+[6:49 AM, 9/10/2024] Marko R: Romania ?
+Can I live there ?
+[6:49 AM, 9/10/2024] +40 770 365 116: ofcourse
+[6:49 AM, 9/10/2024] +40 770 365 116: now because of the war you also can work here legal
+[6:50 AM, 9/10/2024] Marko R: Okay
+[6:50 AM, 9/10/2024] Marko R: I will consider it
+[6:50 AM, 9/10/2024] Marko R: But I am very thankful for that
+[6:50 AM, 9/10/2024] Marko R: After this project, I will work with you there Romania
+[6:50 AM, 9/10/2024] +40 770 365 116: so if its needed or you want you can come anytime
+[6:51 AM, 9/10/2024] Marko R: Okay
+[6:51 AM, 9/10/2024] +40 770 365 116: i dont know how safe is your place now
+[6:51 AM, 9/10/2024] +40 770 365 116: but if its getting worse dont stay to much
+[6:51 AM, 9/10/2024] Marko R: Okay
+[6:52 AM, 9/10/2024] Marko R: I will defintely go there
+[6:52 AM, 9/10/2024] Marko R: But after we establish trust relationship through this first project
+[6:52 AM, 9/10/2024] Marko R: Okay?
+[6:53 AM, 9/10/2024] +40 770 365 116: yes lets see that this project will get real and work
+[6:53 AM, 9/10/2024] +40 770 365 116: if we can sell all the tokens than we have a good start for the business
+[6:54 AM, 9/10/2024] Marko R: Okay
+[7:10 AM, 9/10/2024] +40 770 365 116: to make in romania a LLC which is called SRL here cost just 300 to 400 euro
+[7:10 AM, 9/10/2024] +40 770 365 116: so you can make your own software and marketing company
+[7:11 AM, 9/10/2024] Marko R: Let me think more
+[7:11 AM, 9/10/2024] +40 770 365 116: the income tax here is 10% to 16% for companies
+[7:11 AM, 9/10/2024] +40 770 365 116: and the tax for dividend s 8%

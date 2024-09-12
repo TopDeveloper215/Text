@@ -14,6 +14,22 @@ I will  using --In this sentence, should contain a technical sentence about how 
 
 ✔️✔️Hello, I've worked with other clients in similar project, so I have 8+ years of good experiences with skills including . I will  using . Specially I can work on your time zone for the good communication. I can start right now. I look forward to hearing from you soon.  Thanks and Regards, Mary.
 
+
+--Ukraine-Oleksandr 
+
+-Manual
+
+Hi, this is Oleksandr from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Oleksandr 
+
+-GPT
+
+Please fill best bid letter with following type.
+Only technical importance sentence.
+I am seeing that your project about -- In this part, should contain deep analyze of project title and detail.
+
+Hi, this is Oleksandr from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about  and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Oleksandr
+
+
 --Ukraine- Valentina  
 
 -Manual
@@ -57,19 +73,7 @@ Please connect in chat so that We discuss further.
 Regards.
 Anna
 
---Ukraine-Sasha 
 
--Manual
-
-Hi, this is Sasha from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Sasha 
-
--GPT
-
-Please fill best bid letter with following type.
-Only technical importance sentence.
-"I am seeing that your project about "" "-- In this part, should contain deep analyze of project title and detail.
-
-Hi, this is Sasha from UA and I am working as a senior software engineer for the last decades. I am seeing that your project about "" and I have a good past experience working on similar projects and I am sure that I can get this project done successfully. Looking forward to chatting with you soon to discuss your project further? Thank you! Sasha
 
 
 
