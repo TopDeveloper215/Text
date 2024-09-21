@@ -702,3 +702,28 @@ With solid experience in Linux operating systems, C/C++, C#, and Python operatin
 		Lunds universitet
 		
 		2013-2017
+		
+		----------------Electrical Engineer experience
+		
+		Senior Electrical Engineer | MIRPOWER
+		December 2022 - Present
+		
+		Grid Impact Study (Load Flow Analysis, Contingency Analysis, Short circuit analysis, Excising CT and CB analysis)
+		Dynamic Modelling in DigSilent PowerFactory(Modelling of AVR, PSS, UEL, OEL, Governor, etc.)
+		RMS simulation
+		Harmonic analysis
+		Transfer Capacity analysis(P-V, Q-V)
+		Modeling in ETAP
+		Modeling of solar and Wind Power Plants
+		HVRT, LVRT, HFRT, LFRT, Active power control, Harmonic analysis, and Flicker
+		Insulation coordination(SOV, LOV, and TOV) studies in PSCAD and DigSilent.
+		
+		
+		---------------Blockchain work experience
+		
+		𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:
+		- Smart Contracts & Decentralized Applications (dApps): Extensive experience with Ethereum, Solidity for smart contract development, and integration with EVM chains. Expertise in developing and deploying dApps and decentralized exchanges (DEX).
+		- Decentralized Finance (DeFi): Advanced skills in creating DeFi protocols and solutions, including liquidity pools, staking, and yield farming.
+		- Blockchain Platforms: Proficient in: Rust & Substrate: Developing customized blockchain frameworks and solutions.
+		- Hyperledger Fabric: Implementing permissioned blockchain networks and secure KYC systems.
+		- Solana: Developing scalable and secure blockchain solutions for various applications.
