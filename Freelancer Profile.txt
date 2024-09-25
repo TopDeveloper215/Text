@@ -541,10 +541,12 @@ Skills:
 							
 	--------------Data Analyst | AI Consultant | Full Stack--------
 	
-I'm Angelina from Ukraine. With a proven track record spanning 10 years, I bring a wealth of expertise in software engineering and Data Science.
+I'm Anastasia from Ukraine. With a proven track record spanning 10 years, I bring a wealth of expertise in software engineering, Blockchain and Data Science.
 With a PhD in Computer Science (summa cum laude) from Max-Planck Institute for Informatics in Germany, I had a solid background in math and algorithm development.
 I did undertaken data analysis, data visualization, and predictive modeling with a heavy emphasis on financial and time-series data over the past decade.
 I specializes in different programming languages such as Python, R, C, C++, and MATLAB.
+I am specialized in delivering precise Blockchain development services to businesses, offering improved transaction processes, heightened security, and enhanced transparency. I've worked on Decentralized Exchange (DEX), Decentralized Finance (DeFi), Non-Fungible Token (NFT) marketplace, Metaverse, Initial Coin Offerings (ICOs), smart contract development and white paper development.
+Also I have experience of about 7 years in Schematics Design, PCB design, BOM creation, Gerber (manufacturing) files, and programming.
 
 	---Working Experience
 	
@@ -660,14 +662,19 @@ I'm a researcher, consultant, and developer with 12 years of experience and expe
 		2013-2015
 		
 		
-		--------------Data Analysis & AI | Algorithm & Web |Pro Engineer--------------
+		--------------Python/R/Blockchain/Electrical/Web/Encryption--------------
 	
-This is Mary, senior IT pro with several years of experience in data preparation and visualization, analytics, reporting and full stack development.
+This is Mary, senior IT pro with several years of experience in data preparation and visualization, analytics, reporting, blockchain and full stack development.
 I enjoys the challenges of extracting value from real-world datasets by wielding the latest machine learning and artificial intelligence tools in the Python stack.
-Over the past 7 years, he has specialized in data engineering, full-stack web development, and product management.
-My expertise include data architecture, data engineering, modern data warehousing, big data, and analytics.
-I have also strong background in full-stack application development, including JavaScript, React, Next.js, Node.js, Vue, Python, and Django.
-With solid experience in Linux operating systems, C/C++, C#, and Python operating systems, I enjoys working on industrial and internet of things (IoT) solutions running in web systems, desktop, and embedded devices.
+Over the past 7 years, he has specialized in data engineering, full-stack web development, electrical engineering and blockchain.
+I have a profound understanding of electrical engineering principles, from circuit analysis to power systems, ensuring a solid foundation for your electrical studies.
+Also I excel in statistics and data analysis, helping you make sense of data, conduct meaningful research, and draw insightful conclusions.
+
+Blockchain Expertise -
+~Ethereum ~Binance Smart Chain ~Polygon ~Tron ~Cardano ~Solana
+~Avalanche ~Venom ~Fantom ~Arbitrum ~Cronos ~Kardiachain ~Xrp
+
+Thank you for visiting my profile.
 
 	---Working Experience
 	
