@@ -1,0 +1,47 @@
+--Skills
+
+Engineering,Electrical Engineering,Electronics,Radio Frequency,Radio Frequency Engineering,Wireless Radio Frequency Engineering,Antenna Design,RFID (Radio-frequency identification),Serial Peripheral Interface (SPI),Antenna Measurements,RLHF,Microcontroller,Arduino,PCB Layout,Verilog / VHDL,FPGA,Embedded Systems,PLC & SCADA,PCB Design and Layout,MATLAB,RADAR/LIDAR
+
+--Bid Letter
+
+Please fill best freelancer bid letter with professional & technical.
+Only include technical sentence.
+
+I can help you. -- Please include main purpose of project in this sentence.
+Key Skills:
+Please include relating skills about this project.
+
+Hello,
+
+I’m Yurii, an embedded systems engineer with experience in programming and design. I can help you . 
+Key Skills: 
+Best Regards,Yurii
+
+--Bid Letter-1
+
+Please fill best freelancer bid letter with professional & technical.
+Only include technical sentence.
+I have experience in , in this part, matching skills must be mentioned.
+Based on your project requirement, I will:
+I will  --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
+
+Hello,
+
+I have experience in .
+
+Based on your project requirement, I will.
+
+
+I have few question to move forward this project.
+Sincerely,
+Yurii.
+
+--Auto Bid
+
+Hi, 
+I've gone through the job posting. 
+It seems that you're looking for a freelancer who have rich experiences on "". 
+I've worked with another client in this space, I think you might find it very interesting to have chat. 
+Regards, Yurii.
+
+
