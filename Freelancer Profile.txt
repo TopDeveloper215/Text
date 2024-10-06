@@ -734,3 +734,40 @@ Thank you for visiting my profile.
 		- Blockchain Platforms: Proficient in: Rust & Substrate: Developing customized blockchain frameworks and solutions.
 		- Hyperledger Fabric: Implementing permissioned blockchain networks and secure KYC systems.
 		- Solana: Developing scalable and secure blockchain solutions for various applications.
+		
+		---------Information Security Specialist with 7+ yrs
+
+		I am a highly motivated and dedicated information security professional with a passion for ensuring the confidentiality, integrity, and availability of digital information. With a strong background in cybersecurity and a commitment to staying updated with the latest threats and defense strategies, I bring a valuable skill set to the world of information security.
+
+Core Competencies:
+
+Cybersecurity Expertise: I possess in-depth knowledge of cybersecurity principles, technologies, and best practices, enabling me to design and implement robust security measures.
+
+Risk Assessment and Management: I excel in identifying vulnerabilities and assessing risk factors, allowing organizations to make informed decisions about their security strategies.
+
+Incident Response: I have hands-on experience in developing and executing incident response plans, minimizing the impact of security breaches and ensuring a swift and effective recovery process.
+
+Compliance and Regulations: I am well-versed in industry-specific regulations (e.g., GDPR, HIPAA, PCI DSS) and can help organizations achieve and maintain compliance.
+
+Security Awareness: I am skilled in educating and training teams on cybersecurity awareness, promoting a culture of security within organizations.
+
+Penetration Testing: I have conducted penetration tests to evaluate the security posture of various systems, identifying vulnerabilities before malicious actors can exploit them.
+
+Professional Experience:
+I have 15 years of experience in the field of information security, working with a diverse range of organizations across various industries. My roles have included positions, such as security analyst, consultant, encryption management where I have consistently demonstrated my ability to secure digital assets and mitigate cyber threats.
+
+Certifications and Education:
+I hold industry-recognized certifications, such as Sec+ and CISSP and have completed a bachelor's degree in Economics and I have an MBA. My commitment to continuous learning ensures that I remain at the forefront of industry trends and emerging threats.
+
+Professional Values:
+
+Ethical Conduct: I prioritize ethical conduct in all aspects of my work, emphasizing the importance of integrity and responsible handling of sensitive information.
+
+Client-Centric Approach: I believe in a client-centric approach, tailoring security solutions to meet the unique needs and goals of each organization I work with.
+
+Adaptability: In the dynamic field of cybersecurity, I am adaptable and always ready to respond to new challenges and emerging threats.
+
+Collaboration: I value collaboration and believe that effective information security involves teamwork and cooperation across all levels of an organization.
+
+Conclusion:
+As an information security professional, I am dedicated to helping organizations fortify their defenses and navigate the complex landscape of cybersecurity. My experience, expertise, and commitment to excellence make me a valuable asset in safeguardin

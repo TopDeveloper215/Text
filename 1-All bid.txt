@@ -74,11 +74,11 @@ Regards.
 Anna
 
 
---Ukraine-Anastasia
+--US-Daniel
 
 -Manual
 
-Greetings! I have carefully checked your project and really interested with this project. Could you send me a message for discuss the details and build a long term  relationship with each other. Thanks. Anastasia
+Greetings! I have carefully checked your project and really interested with this project. Could you send me a message for discuss the details and build a long term  relationship with each other. Thanks. Daniel
 
 
 -GPT
@@ -88,7 +88,7 @@ Only technical importance sentence.
 
 I will  using --In this sentence, should contain a technical sentence about how this task will be done, using what technology, and in what way and any other sentences that are not technical, such as a kind of oath or resolution(for example : user-friendly), should not be included..
 
-Greetings! I have carefully checked your project and really interested with this project. I will using. Could you send me a message for discuss the details and build a long term  relationship with each other. Thanks. Anastasia
+Greetings! I've just checked your project description carefully and I'm very interested with this project. Based on analyze your project detail, I will using. Please connect in chat so that We discuss further. Thanks. Daniel
 
 
 
